@@ -1,0 +1,101 @@
+Report for Institution Code UAM, Resource uam_herp
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 245
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Spain ; Times: 2
+	Country: United States ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-07 ; Times: 1
+	Date: 2015-02-10 ; Times: 1
+	Date: 2015-02-11 ; Times: 2
+	Date: 2015-02-12 ; Times: 6
+	Date: 2015-02-13 ; Times: 3
+	Date: 2015-02-14 ; Times: 1
+	Date: 2015-02-16 ; Times: 7
+	Date: 2015-02-23 ; Times: 1
+	Date: 2015-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Mabuya tissue:1 distance(location,geopoint(1.4061088354351594,-82.177734375))<3162479.502825151" ; Times: 5
+	Query: "institutioncode:uam" ; Times: 1
+	Query: "(Viperidae) tissue:1" ; Times: 1
+	Query: "genus:Mabuya tissue:1 distance(location,geopoint(4.915832801313164,-82.6171875))<3394074.655409425" ; Times: 7
+	Query: "typhlops tissue:1" ; Times: 1
+	Query: "mabuya guaporicola" ; Times: 1
+	Query: "lithobates" ; Times: 1
+	Query: "Tupinambis" ; Times: 1
+	Query: "Lithobates sylvaticus" ; Times: 1
+	Query: "genus:Lithobates" ; Times: 1
+	Query: "mabuya frenata" ; Times: 1
+	Query: "Typhlopidae tissue:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 326 download events in this period)
+Total number of records downloaded: 504 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 435
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Chile ; Times: 3
+	Country: Israel ; Times: 1
+	Country: Spain ; Times: 1
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 1
+	Date: 2015-02-04 ; Times: 1
+	Date: 2015-02-05 ; Times: 1
+	Date: 2015-02-09 ; Times: 1
+	Date: 2015-02-11 ; Times: 1
+	Date: 2015-02-12 ; Times: 1
+	Date: 2015-02-13 ; Times: 3
+	Date: 2015-02-14 ; Times: 1
+	Date: 2015-02-23 ; Times: 1
+	Date: 2015-02-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:pipiens" ; Times: 1
+	Query: "Dendrobatidae" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "hylidae" ; Times: 1
+	Query: "Tupinambis" ; Times: 1
+	Query: "Anura" ; Times: 1
+	Query: "dendrobatidae tissue:1" ; Times: 1
+	Query: "Leptodactylidae" ; Times: 2
+	Query: "taricha granulosa" ; Times: 1
+	Query: "Typhlopidae tissue:1" ; Times: 1
+	Query: "country:"Paraguay" class:Reptilia mappable:1" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 56
+Total number of records retrieved from searches: 610
+Number of download events that retrieved data from the resource: 13
+Total number of records downloaded: 611
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 59
+Total number of records retrieved from searches: 712
+Number of download events that retrieved data from the resource: 43
+Total number of records downloaded: 1423
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
