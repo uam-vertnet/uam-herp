@@ -1,0 +1,69 @@
+Report for Institution Code UAM, Resource uam_herp
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 401
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Colombia ; Times: 3
+	Country: United States ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-12 ; Times: 3
+	Date: 2015-05-13 ; Times: 2
+	Date: 2015-05-22 ; Times: 4
+	Date: 2015-05-26 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "caiman" ; Times: 3
+	Query: "thamnophis sirtalis mappable:1 tissue:1" ; Times: 1
+	Query: "Lithobates sylvatica" ; Times: 4
+	Query: "thamnophis sirtalis tissue:1" ; Times: 4
+	Query: "thamnophis AND sirtalis tissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 976 download events in this period)
+Total number of records downloaded: 37 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 30
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-07 ; Times: 1
+	Date: 2015-05-11 ; Times: 1
+	Date: 2015-05-21 ; Times: 2
+	Date: 2015-05-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "typhlops" ; Times: 1
+	Query: "Pseudacris regilla mappable:1" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "ambystoma gracile" ; Times: 1
+	Query: "thamnophis sirtalis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 78
+Total number of records retrieved from searches: 1053
+Number of download events that retrieved data from the resource: 23
+Total number of records downloaded: 836
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 81
+Total number of records retrieved from searches: 1155
+Number of download events that retrieved data from the resource: 53
+Total number of records downloaded: 1648
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
