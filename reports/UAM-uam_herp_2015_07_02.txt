@@ -1,0 +1,77 @@
+Report for Institution Code UAM, Resource uam_herp
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 19
+Number of records retrieved in searches: 141
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Paraguay ; Times: 1
+	Country: United States ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-02 ; Times: 3
+	Date: 2015-06-03 ; Times: 1
+	Date: 2015-06-05 ; Times: 1
+	Date: 2015-06-08 ; Times: 9
+	Date: 2015-06-10 ; Times: 1
+	Date: 2015-06-12 ; Times: 3
+	Date: 2015-06-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Rana sylvatica Alaska" ; Times: 1
+	Query: "Rana sylvatica Alaska Stikine" ; Times: 1
+	Query: "institutioncode:uam" ; Times: 1
+	Query: "specificepithet:ahaetulla genus:Leptophis" ; Times: 1
+	Query: "country:"paraguay" genus:caiman" ; Times: 1
+	Query: "Colubrinae tissue:1" ; Times: 1
+	Query: "bothrops jararaca" ; Times: 1
+	Query: "Phrynohyas venulosa" ; Times: 8
+	Query: "Typhlops brongersmianus" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1524 download events in this period)
+Total number of records downloaded: 159 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 158
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Paraguay ; Times: 2
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-04 ; Times: 2
+	Date: 2015-06-10 ; Times: 2
+	Date: 2015-06-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "bufo hemiophrys" ; Times: 1
+	Query: "country:"paraguay" class:amphibia" ; Times: 1
+	Query: "bufo boreas" ; Times: 1
+	Query: "Colubrinae tissue:1" ; Times: 1
+	Query: "country:"paraguay" class:reptilia" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 97
+Total number of records retrieved from searches: 1194
+Number of download events that retrieved data from the resource: 28
+Total number of records downloaded: 995
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 100
+Total number of records retrieved from searches: 1296
+Number of download events that retrieved data from the resource: 58
+Total number of records downloaded: 1807
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
