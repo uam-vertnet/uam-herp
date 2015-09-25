@@ -1,0 +1,76 @@
+Report for Institution Code UAM, Resource Amphibian and reptile specimens
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 59
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 2
+	Country: United States ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 1
+	Date: 2015-08-11 ; Times: 2
+	Date: 2015-08-13 ; Times: 1
+	Date: 2015-08-24 ; Times: 2
+	Date: 2015-08-25 ; Times: 4
+	Date: 2015-08-26 ; Times: 6
+	Date: 2015-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "graves" ; Times: 1
+	Query: "Tupinambis teguixin" ; Times: 1
+	Query: "typhlops tissue:1" ; Times: 1
+	Query: "ahaetulla tissue:1" ; Times: 7
+	Query: "ahaetulla" ; Times: 1
+	Query: "Thamnophis ordinoides year >= 2000 year <= 2015" ; Times: 1
+	Query: "Anaxyrus boreas" ; Times: 2
+	Query: "Phyllomedusa hypochondrialis" ; Times: 1
+	Query: "catalognumber:122" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1138 download events in this period)
+Total number of records downloaded: 29 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 29
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 2
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-03 ; Times: 2
+	Date: 2015-08-07 ; Times: 1
+	Date: 2015-08-28 ; Times: 1
+	Date: 2015-08-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Leptodactylidae" ; Times: 1
+	Query: "Dendrobatidae" ; Times: 1
+	Query: "pituophis melanoleucus year >= 1700 year <= 2015" ; Times: 1
+	Query: "Mabuya" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 17
+Total number of records retrieved from searches: 59
+Number of download events that retrieved data from the resource: 5
+Total number of records downloaded: 29
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 17
+Total number of records retrieved from searches: 59
+Number of download events that retrieved data from the resource: 5
+Total number of records downloaded: 29
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
