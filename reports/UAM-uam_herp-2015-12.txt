@@ -1,0 +1,51 @@
+Report for Institution Code UAM, Resource uam_herp
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 8
+Number of records retrieved in searches: 60
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Brazil ; Times: 2
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-23 ; Times: 1
+	Date: 2015-12-10 ; Times: 2
+	Date: 2015-12-11 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Oxyrhopus" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:boreas" ; Times: 1
+	Query: "order:squamata stateprovince:&#34;alaska&#34;" ; Times: 2
+	Query: "order:caudata stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "(raniceps) tissue:1" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "leptodactylus chaquensis tissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 889 download events in this period)
+Total number of records downloaded: 267
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-17 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Anaxyrus boreas" ; Times: 2
+	Query: "caribou continent:North America" ; Times: 1
+	Query: "Bufo boreas" ; Times: 1
+	Query: "Rana aurora" ; Times: 1
+	Query: "Pseudacris regilla" ; Times: 1
+
+
+End of report.
