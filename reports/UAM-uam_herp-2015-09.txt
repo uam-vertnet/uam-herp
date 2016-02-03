@@ -1,0 +1,63 @@
+Report for Institution Code UAM, Resource uam_herp
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 242
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-07 ; Times: 2
+	Date: 2015-09-10 ; Times: 2
+	Date: 2015-09-04 ; Times: 1
+	Date: 2015-09-15 ; Times: 3
+	Date: 2015-09-24 ; Times: 1
+	Date: 2015-09-26 ; Times: 1
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-30 ; Times: 2
+	Date: 2015-09-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "crocodylia tissue:1" ; Times: 3
+	Query: "institutioncode:uam" ; Times: 1
+	Query: "thamnophis sirtalis tissue:1" ; Times: 1
+	Query: "tupinambis tissue:1" ; Times: 1
+	Query: "institutioncode:UAM tissue:1" ; Times: 2
+	Query: "Herpetology Bradford Norman" ; Times: 1
+	Query: "genus:Leptophis" ; Times: 1
+	Query: "Anaxyrus boreas" ; Times: 2
+	Query: "Bradford Norman" ; Times: 1
+	Query: "caiman" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1045 download events in this period)
+Total number of records downloaded: 13
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-04 ; Times: 1
+	Date: 2015-09-26 ; Times: 1
+	Date: 2015-09-03 ; Times: 1
+	Date: 2015-09-02 ; Times: 1
+	Date: 2015-09-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "viperidae" ; Times: 1
+	Query: "caiman" ; Times: 2
+	Query: "Rana pipiens" ; Times: 1
+	Query: "thamnophis sirtalis tissue:1" ; Times: 1
+
+
+End of report.
