@@ -1,0 +1,64 @@
+Report for Institution Code UAM, Resource uam_herp
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 265
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Brazil ; Times: 3
+	Country: Argentina ; Times: 24
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-13 ; Times: 2
+	Date: 2016-04-22 ; Times: 3
+	Date: 2016-04-28 ; Times: 2
+	Date: 2016-04-19 ; Times: 1
+	Date: 2016-04-15 ; Times: 1
+	Date: 2016-04-16 ; Times: 17
+	Date: 2016-04-17 ; Times: 8
+	Date: 2016-04-27 ; Times: 3
+	Date: 2016-04-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:9fbac577-9e5f-41b2-9edb-c2ed1d2c7020" ; Times: 13
+	Query: "institutioncode:uam" ; Times: 1
+	Query: "USNM 167223" ; Times: 2
+	Query: "massing:66" ; Times: 1
+	Query: "catalognumber:92" ; Times: 2
+	Query: "massing &gt;= 60 massing &lt;= 70" ; Times: 8
+	Query: "type:specimen specificepithet:jararaca" ; Times: 1
+	Query: "mallard" ; Times: 1
+	Query: "lengthinmm:69" ; Times: 2
+	Query: "Swan Island United States" ; Times: 1
+	Query: "hassex:1" ; Times: 3
+	Query: "year &gt;= 1993 year &lt;= 2003" ; Times: 1
+	Query: "caiman yacare" ; Times: 1
+	Query: "Anaxyrus boreas boreas" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1312 download events in this period)
+Total number of records downloaded: 395
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-16 ; Times: 1
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Amphibia country:&#34;United States&#34;" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "caiman yacare" ; Times: 1
+
+
+End of report.
