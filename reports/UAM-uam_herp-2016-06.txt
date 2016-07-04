@@ -1,0 +1,74 @@
+Report for Institution Code UAM, Resource uam_herp
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 39
+Number of records retrieved in searches: 61
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 9
+	Date: 2016-06-09 ; Times: 4
+	Date: 2016-06-22 ; Times: 1
+	Date: 2016-06-21 ; Times: 1
+	Date: 2016-06-20 ; Times: 1
+	Date: 2016-06-16 ; Times: 1
+	Date: 2016-06-01 ; Times: 2
+	Date: 2016-06-14 ; Times: 5
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-12 ; Times: 1
+	Date: 2016-06-13 ; Times: 3
+	Date: 2016-06-03 ; Times: 1
+	Date: 2016-06-02 ; Times: 1
+	Date: 2016-06-10 ; Times: 1
+	Date: 2016-06-04 ; Times: 1
+	Date: 2016-06-23 ; Times: 3
+	Date: 2016-06-11 ; Times: 1
+	Date: 2016-06-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Bufo Boreas tissue:1" ; Times: 1
+	Query: "182 uam" ; Times: 1
+	Query: "Thamnophis ordinoides tissue:1" ; Times: 1
+	Query: "massing &gt;= 60 massing &lt;= 70" ; Times: 19
+	Query: "hassex:1" ; Times: 4
+	Query: "leptophis" ; Times: 1
+	Query: "mallard" ; Times: 2
+	Query: "scinax squalirostris" ; Times: 3
+	Query: "Ambystoma macrodactylum distance(location,geopoint(55.02697288562893,-130.30407775099997))&lt;100000" ; Times: 1
+	Query: "year &gt;= 1990 year &lt;= 2000" ; Times: 1
+	Query: "regilla mappable:1 tissue:1" ; Times: 2
+	Query: "182 UAM" ; Times: 1
+	Query: "Comstock AND Island" ; Times: 1
+	Query: "Scinax squalirostris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1052 download events in this period)
+Total number of records downloaded: 116
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 2
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "regilla mappable:1 tissue:1" ; Times: 1
+	Query: "scinax squalirostris" ; Times: 2
+	Query: "bufo bufo" ; Times: 1
+
+
+End of report.
