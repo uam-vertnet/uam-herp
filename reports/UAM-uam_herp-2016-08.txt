@@ -1,0 +1,60 @@
+Report for Institution Code UAM, Resource uam_herp
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 32
+Number of records retrieved in searches: 161
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 32
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 9
+	Date: 2016-08-21 ; Times: 3
+	Date: 2016-08-16 ; Times: 2
+	Date: 2016-08-23 ; Times: 1
+	Date: 2016-08-22 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "Tupinambis type:specimen tissue:1" ; Times: 1
+	Query: "specificepithet:teguixin genus:Tupinambis tissue:1" ; Times: 1
+	Query: "Oxyrhopus" ; Times: 2
+	Query: "genus:Tupinambis tissue:1" ; Times: 1
+	Query: "Tupinambis tissue:1" ; Times: 2
+	Query: "Ameiva tissue:1" ; Times: 4
+	Query: "(anaxyrus bufo)" ; Times: 1
+	Query: "class:Reptilia type:specimen mappable:1 media:1 tissue:1" ; Times: 1
+	Query: "(bufo anaxyrus)" ; Times: 1
+	Query: "brongersmianus" ; Times: 1
+	Query: "typhlops brongersmianus" ; Times: 16
+	Query: "type:specimen (anaxyrus bufo)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 924 download events in this period)
+Total number of records downloaded: 384
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 1
+	Date: 2016-08-21 ; Times: 3
+	Date: 2016-08-29 ; Times: 1
+	Date: 2016-08-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "ambystoma" ; Times: 1
+	Query: "Ameiva tissue:1" ; Times: 1
+	Query: "type:specimen (anaxyrus bufo)" ; Times: 1
+	Query: "type:specimen (anaxyrus)" ; Times: 1
+	Query: "Lithobates sylvaticus" ; Times: 1
+	Query: "bufo" ; Times: 1
+	Query: "typhlops brongersmianus" ; Times: 1
+
+
+End of report.
