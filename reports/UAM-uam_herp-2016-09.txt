@@ -1,0 +1,54 @@
+Report for Institution Code UAM, Resource uam_herp
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 52
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Canada ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-04 ; Times: 1
+	Date: 2016-09-11 ; Times: 2
+	Date: 2016-09-01 ; Times: 1
+	Date: 2016-09-02 ; Times: 5
+	Date: 2016-09-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Bufo boreas tissue:1" ; Times: 1
+	Query: "Bufo boreas type:specimen tissue:1" ; Times: 2
+	Query: "Typhlops tissue:1" ; Times: 1
+	Query: "Bufo hemiophrys" ; Times: 2
+	Query: "Anaxyrus boreas" ; Times: 1
+	Query: "family:Typhlopidae tissue:1" ; Times: 1
+	Query: "family:Typhlopidae AND (NOT braminus) tissue:1" ; Times: 1
+	Query: "Bufo boreas institutioncode:UAM tissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 811 download events in this period)
+Total number of records downloaded: 61
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-12 ; Times: 1
+	Date: 2016-09-11 ; Times: 2
+	Date: 2016-09-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Bufo hemiophrys" ; Times: 1
+	Query: "tadpole" ; Times: 1
+	Query: "rana pipiens" ; Times: 1
+	Query: "type:specimen country:&#34;Paraguay&#34;" ; Times: 1
+
+
+End of report.
