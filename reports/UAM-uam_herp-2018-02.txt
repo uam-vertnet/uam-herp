@@ -1,0 +1,51 @@
+Report for Institution Code UAM, Resource uam_herp
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 8
+Number of records retrieved in searches: 10
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 1
+	Date: 2018-02-25 ; Times: 2
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-19 ; Times: 1
+	Date: 2018-02-05 ; Times: 1
+	Date: 2018-02-04 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Under log class:Amphibia country:&#34;United States&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 2
+	Query: "genus:Oxyrhopus mappable:1" ; Times: 1
+	Query: "scientificname:&#34;oxyrhopus guibei&#34;" ; Times: 1
+	Query: "caiman" ; Times: 1
+	Query: "phyllomedusa hypochondrialis" ; Times: 2
+	Query: "Caiman yacare" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1892 download events in this period)
+Total number of records downloaded: 93
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-03 ; Times: 2
+	Date: 2018-02-02 ; Times: 1
+	Date: 2018-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "taricha granulosa" ; Times: 1
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "ambystoma gracile" ; Times: 1
+	Query: "family:Bufonidae haslength:1 mappable:1" ; Times: 1
+
+
+End of report.
