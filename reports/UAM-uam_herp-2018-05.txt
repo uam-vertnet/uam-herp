@@ -1,0 +1,59 @@
+Report for Institution Code UAM, Resource uam_herp
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 189
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Argentina ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-16 ; Times: 4
+	Date: 2018-05-01 ; Times: 7
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-23 ; Times: 5
+	Date: 2018-05-24 ; Times: 4
+	Date: 2018-05-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:ocellatus genus:Leptodactylus institutioncode:UAM" ; Times: 3
+	Query: "catalognumber:1 institutioncode:UAM" ; Times: 1
+	Query: "specificepithet:sylvaticus stateprovince:&#34;Alaska&#34;" ; Times: 2
+	Query: "genus:taricha stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Salamandrella keyserlingii" ; Times: 1
+	Query: "bothrops hastissue:1" ; Times: 2
+	Query: "genus:Ambystoma stateprovince:&#34;Alaska&#34;" ; Times: 2
+	Query: "specificepithet:hypochondrialis genus:Phyllomedusa institutioncode:UAM" ; Times: 3
+	Query: "Phyllomedusa hypochondrialis hassex:1" ; Times: 3
+	Query: "specificepithet:gracile stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana institutioncode:UAM" ; Times: 3
+	Query: "Leptophis ahaetulla" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1178 download events in this period)
+Total number of records downloaded: 11
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 1
+	Date: 2018-05-21 ; Times: 1
+	Date: 2018-05-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen class:Amphibia haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+	Query: "Leptophis ahaetulla" ; Times: 1
+
+
+End of report.
