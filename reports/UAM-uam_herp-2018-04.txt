@@ -1,0 +1,70 @@
+Report for Institution Code UAM, Resource uam_herp
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 69
+Number of records retrieved in searches: 100
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 65
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-01 ; Times: 1
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-17 ; Times: 38
+	Date: 2018-04-18 ; Times: 19
+	Date: 2018-04-22 ; Times: 2
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-20 ; Times: 3
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-26 ; Times: 2
+	Date: 2018-04-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Caiman latirostris" ; Times: 3
+	Query: "specificepithet:jararaca genus:bothrops" ; Times: 1
+	Query: "genus: Typhlops hastissue:1" ; Times: 2
+	Query: "Oxyrhopus guibei" ; Times: 1
+	Query: "Typhlops hastissue:1" ; Times: 1
+	Query: "caiman latirostris" ; Times: 33
+	Query: "genus:anaxyrus hastissue:1" ; Times: 2
+	Query: "specificepithet:guibei genus:Oxyrhopus mappable:1" ; Times: 1
+	Query: "Caiman yacare" ; Times: 25
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1359 download events in this period)
+Total number of records downloaded: 139
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 1
+	Date: 2018-04-03 ; Times: 1
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-17 ; Times: 1
+	Date: 2018-04-15 ; Times: 2
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:guibei genus:Oxyrhopus mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(65.15401,-147.50258))&lt;50000" ; Times: 1
+	Query: "bufo boreas" ; Times: 1
+	Query: "distance(location,geopoint(65.15306,-147.50246))&lt;50000" ; Times: 1
+	Query: "ranA hasmass:1 mappable:1" ; Times: 1
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "order:Squamata hastissue:1" ; Times: 1
+	Query: "revillagigedo" ; Times: 1
+
+
+End of report.
