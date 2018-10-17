@@ -1,0 +1,68 @@
+Report for Institution Code UAM, Resource uam_herp
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 225
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Italy ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-26 ; Times: 1
+	Date: 2018-06-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "institutioncode:UAM" ; Times: 2
+	Query: "appendages" ; Times: 1
+	Query: "Salamandrella keyserlingii" ; Times: 1
+	Query: "bothrops hastissue:1" ; Times: 1
+	Query: "mallard" ; Times: 1
+	Query: "Anaxyrus boreas" ; Times: 1
+	Query: "genus:Epipedobates " ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 1169 download events in this period)
+Total number of records downloaded: 767
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 1
+	Date: 2018-06-06 ; Times: 4
+	Date: 2018-06-05 ; Times: 8
+	Date: 2018-06-03 ; Times: 2
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-08 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "moose" ; Times: 1
+	Query: "Taricha granulosa granulosa" ; Times: 1
+	Query: "reptile" ; Times: 1
+	Query: "frog" ; Times: 1
+	Query: "Salamandrella keyserlingii" ; Times: 1
+	Query: "wood frog" ; Times: 1
+	Query: "Pseudacris regilla" ; Times: 1
+	Query: "American Beaver" ; Times: 4
+	Query: "Taricha granulosa" ; Times: 3
+	Query: "Anaxyrus boreas" ; Times: 1
+	Query: "taricha granulosa" ; Times: 4
+	Query: "Amphibia SALAMANDER" ; Times: 1
+	Query: "wood frog continent:North America" ; Times: 1
+
+
+End of report.
