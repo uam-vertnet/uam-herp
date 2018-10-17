@@ -1,0 +1,66 @@
+Report for Institution Code UAM, Resource uam_herp
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 431
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 35
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 6
+	Date: 2018-09-10 ; Times: 13
+	Date: 2018-09-01 ; Times: 1
+	Date: 2018-09-21 ; Times: 1
+	Date: 2018-09-17 ; Times: 1
+	Date: 2018-09-05 ; Times: 9
+	Date: 2018-09-18 ; Times: 2
+	Date: 2018-09-27 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Bufo boreas Alaska Island" ; Times: 2
+	Query: "specificepithet:boreas genus:Anaxyrus stateprovince:&#34;Alaska&#34; distance(location,geopoint(55.45337929289981,-132.14355558156967))&lt;100000" ; Times: 1
+	Query: "institutioncode:UAM" ; Times: 1
+	Query: "genus:taricha class:amphibia stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Bufo boreas Alaska &#34;Prince of Wales&#34;" ; Times: 1
+	Query: "leptophis ahaetulla" ; Times: 1
+	Query: "Caiman yacare" ; Times: 10
+	Query: "specificepithet:frenata genus:Mabuya continent:South America" ; Times: 1
+	Query: "Bufo boreas Alaska" ; Times: 1
+	Query: "Bufo boreas Alaska Dall" ; Times: 1
+	Query: "class:amphibia locality:skagway" ; Times: 2
+	Query: "specificepithet:boreas genus:Bufo stateprovince:&#34;Alaska&#34; distance(location,geopoint(56.91265449075896,-134.4470215961337))&lt;100000" ; Times: 1
+	Query: "Tupinambis" ; Times: 1
+	Query: "class:amphibia locality:skagway stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Mabuya frenata" ; Times: 1
+	Query: "Caiman latirostris" ; Times: 3
+	Query: "caiman yacare" ; Times: 1
+	Query: "specificepithet:boreas AND (genus:Anaxyrus OR genus:Bufo) AND stateprovince:Alaska" ; Times: 7
+	Query: "genus:Ambystoma class:amphibia stateprovince:&#34;Alaska&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 846 download events in this period)
+Total number of records downloaded: 20
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:frenata genus:Mabuya continent:South America" ; Times: 1
+	Query: "genus:mabuya continent:South America" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis" ; Times: 1
+	Query: "continent:South America" ; Times: 1
+
+
+End of report.
