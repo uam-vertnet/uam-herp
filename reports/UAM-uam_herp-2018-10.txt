@@ -1,0 +1,59 @@
+Report for Institution Code UAM, Resource uam_herp
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 172
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-05 ; Times: 2
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-24 ; Times: 1
+	Date: 2018-10-23 ; Times: 1
+	Date: 2018-10-29 ; Times: 3
+	Date: 2018-10-18 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "institutioncode:uam" ; Times: 1
+	Query: "genus:Physalaemus specificepithet:albonotatus" ; Times: 2
+	Query: "genus:Scinax specificepithet:squalirostris" ; Times: 1
+	Query: "alaska specificepithet:sylvatica" ; Times: 3
+	Query: "caiman latirostris" ; Times: 3
+	Query: "caiman yacare" ; Times: 1
+	Query: "Bufo boreas Alaska Island" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1300 download events in this period)
+Total number of records downloaded: 57
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: France ; Times: 2
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-10 ; Times: 1
+	Date: 2018-10-29 ; Times: 1
+	Date: 2018-10-18 ; Times: 3
+	Date: 2018-10-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "Mabuya frenata" ; Times: 1
+	Query: "Ameiva ameiva" ; Times: 1
+	Query: "alaska specificepithet:sylvatica" ; Times: 1
+	Query: "caiman latirostris" ; Times: 3
+
+
+End of report.
