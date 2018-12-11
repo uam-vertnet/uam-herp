@@ -1,0 +1,56 @@
+Report for Institution Code UAM, Resource uam_herp
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 113
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-19 ; Times: 1
+	Date: 2018-11-11 ; Times: 1
+	Date: 2018-11-05 ; Times: 3
+	Date: 2018-11-04 ; Times: 1
+	Date: 2018-11-02 ; Times: 1
+	Date: 2018-11-01 ; Times: 3
+	Date: 2018-11-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "institutioncode:UAM" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:hypochondrialis" ; Times: 1
+	Query: "nautilus" ; Times: 3
+	Query: "mallard" ; Times: 1
+	Query: "bothrops jararaca" ; Times: 3
+	Query: "Phrynohyas venulosa" ; Times: 1
+	Query: "genus:Salamandrella specificepithet:keyserlingii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1719 download events in this period)
+Total number of records downloaded: 196
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-04 ; Times: 1
+	Date: 2018-11-02 ; Times: 1
+	Date: 2018-11-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Taricha granulosa" ; Times: 1
+	Query: "Lithobates" ; Times: 1
+	Query: "family:Viperidae" ; Times: 1
+
+
+End of report.
