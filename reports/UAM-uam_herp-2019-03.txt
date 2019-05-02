@@ -1,0 +1,47 @@
+Report for Institution Code UAM, Resource uam_herp
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 8
+Number of records retrieved in searches: 129
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Brazil ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: United Kingdom ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-17 ; Times: 1
+	Date: 2019-03-14 ; Times: 1
+	Date: 2019-03-15 ; Times: 1
+	Date: 2019-03-12 ; Times: 1
+	Date: 2019-03-13 ; Times: 1
+	Date: 2019-03-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Physalaemus hastissue:1" ; Times: 1
+	Query: "institutioncode:UAM" ; Times: 1
+	Query: "Oxyrhopus guibei" ; Times: 1
+	Query: "Bothrops jararaca" ; Times: 2
+	Query: "Leptodactylus chaquensis mappable:1" ; Times: 1
+	Query: "Physalaemus albonotatus mappable:1" ; Times: 1
+	Query: "catalognumber:509 institutioncode:UAM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1281 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
