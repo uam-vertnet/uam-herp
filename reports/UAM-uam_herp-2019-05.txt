@@ -1,0 +1,46 @@
+Report for Institution Code UAM, Resource uam_herp
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 36
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Germany ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-21 ; Times: 6
+	Date: 2019-05-15 ; Times: 1
+	Date: 2019-05-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lithobates sylvatica hastissue:1" ; Times: 1
+	Query: "Oxyrhopus guibei" ; Times: 1
+	Query: "sylvatica hastissue:1" ; Times: 1
+	Query: "Physalaemus albonotatus" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Typhlops brongersmianus" ; Times: 1
+	Query: "Rana sylvatica hastissue:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 940 download events in this period)
+Total number of records downloaded: 16
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "sylvatica hastissue:1" ; Times: 1
+	Query: "Rana sylvatica hastissue:1" ; Times: 1
+
+
+End of report.
