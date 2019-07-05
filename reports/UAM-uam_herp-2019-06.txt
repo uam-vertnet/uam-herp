@@ -1,0 +1,76 @@
+Report for Institution Code UAM, Resource uam_herp
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 279
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-24 ; Times: 1
+	Date: 2019-06-26 ; Times: 3
+	Date: 2019-06-08 ; Times: 1
+	Date: 2019-06-06 ; Times: 1
+	Date: 2019-06-05 ; Times: 1
+	Date: 2019-06-11 ; Times: 5
+	Date: 2019-06-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lithobates specificepithet:sylvaticus" ; Times: 1
+	Query: "genus:Mabuya specificepithet:frenata" ; Times: 1
+	Query: "genus:Oxyrhopus specificepithet:guibei" ; Times: 1
+	Query: "genus:Chiasmocleis" ; Times: 2
+	Query: "genus:Leptophis specificepithet:ahaetulla" ; Times: 1
+	Query: "Tupinambis teguixin" ; Times: 1
+	Query: "Bufo fernandezae" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:lithobates stateprovince:&#34;alaska&#34; institutioncode:UAM" ; Times: 1
+	Query: "Caiman latirostris" ; Times: 3
+	Query: "genus:Salamandrella specificepithet:keyserlingii" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:Lithobates stateprovince:&#34;alaska&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 1182 download events in this period)
+Total number of records downloaded: 142
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Brazil ; Times: 2
+	Country: Germany ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-25 ; Times: 1
+	Date: 2019-06-08 ; Times: 3
+	Date: 2019-06-06 ; Times: 1
+	Date: 2019-06-04 ; Times: 4
+	Date: 2019-06-05 ; Times: 1
+	Date: 2019-06-03 ; Times: 4
+	Date: 2019-06-01 ; Times: 2
+	Date: 2019-06-12 ; Times: 2
+	Date: 2019-06-26 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "moose" ; Times: 1
+	Query: "vntype:specimen order:Squamata hastypestatus:1" ; Times: 1
+	Query: "phyllomedusa" ; Times: 1
+	Query: "Rana pretiosa" ; Times: 1
+	Query: "(frog)" ; Times: 1
+	Query: "vntype:specimen class:Reptilia hastypestatus:1" ; Times: 1
+	Query: "salamander" ; Times: 2
+	Query: "Thamnophis sirtalis" ; Times: 1
+	Query: "wolf" ; Times: 1
+	Query: "genus:Chiasmocleis" ; Times: 1
+	Query: "Tupinambis teguixin" ; Times: 2
+	Query: "tARICHA GRANULOSA" ; Times: 1
+	Query: "lifestage:juvenile basisofrecord:PreservedSpecimen hasmedia:1" ; Times: 1
+	Query: "beaver" ; Times: 3
+	Query: "Caiman latirostris" ; Times: 3
+
+
+End of report.
