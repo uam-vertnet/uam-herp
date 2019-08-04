@@ -1,0 +1,67 @@
+Report for Institution Code UAM, Resource uam_herp
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 407
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 7
+	Country: Canada ; Times: 1
+	Country: Unknown ; Times: 9
+	Country: United Kingdom ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-08 ; Times: 1
+	Date: 2019-07-18 ; Times: 4
+	Date: 2019-07-22 ; Times: 5
+	Date: 2019-07-16 ; Times: 5
+	Date: 2019-07-03 ; Times: 1
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-04 ; Times: 4
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-15 ; Times: 1
+	Date: 2019-07-06 ; Times: 1
+	Date: 2019-07-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Anaxyrus boreas hastissue:1" ; Times: 4
+	Query: "institutioncode:UAM" ; Times: 1
+	Query: "genus:Ameiva specificepithet:ameiva" ; Times: 1
+	Query: "Caiman latirostris mappable:1" ; Times: 1
+	Query: "cjc" ; Times: 1
+	Query: "Rana aurora" ; Times: 1
+	Query: "specificepithet:sylvatica genus:rana stateprovince:&#34;alaska&#34;" ; Times: 2
+	Query: "Frost Pond" ; Times: 1
+	Query: "gbifdatasetid:9fbac577-9e5f-41b2-9edb-c2ed1d2c7020" ; Times: 1
+	Query: "Estancia Yacaré" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:lithobates stateprovince:&#34;alaska&#34;" ; Times: 2
+	Query: "(Anaxyrus ) hastissue:1" ; Times: 4
+	Query: "Leptodactylus chaquensis mappable:1" ; Times: 1
+	Query: "dall vntype:specimen institutioncode:UAM" ; Times: 1
+	Query: "Bothrops jararaca mappable:1" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 985 download events in this period)
+Total number of records downloaded: 3
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Scincidae" ; Times: 1
+	Query: "class:reptilia hastypestatus:1" ; Times: 1
+
+
+End of report.
