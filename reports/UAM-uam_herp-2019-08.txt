@@ -1,0 +1,73 @@
+Report for Institution Code UAM, Resource uam_herp
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 19
+Number of records retrieved in searches: 249
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Brazil ; Times: 7
+	Country: Argentina ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Canada ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-07 ; Times: 1
+	Date: 2019-08-02 ; Times: 2
+	Date: 2019-08-08 ; Times: 1
+	Date: 2019-08-15 ; Times: 1
+	Date: 2019-08-14 ; Times: 1
+	Date: 2019-08-05 ; Times: 2
+	Date: 2019-08-29 ; Times: 2
+	Date: 2019-08-26 ; Times: 4
+	Date: 2019-08-24 ; Times: 1
+	Date: 2019-08-20 ; Times: 1
+	Date: 2019-08-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Salamandrella" ; Times: 1
+	Query: "Scinax squalirostris mappable:1" ; Times: 1
+	Query: "Leptodactylus ocellatus" ; Times: 1
+	Query: "Rana aurora" ; Times: 3
+	Query: "CAIMAN LATIROSTRIS" ; Times: 1
+	Query: "Caiman yacare mappable:1" ; Times: 2
+	Query: "4721 institutioncode:UAM" ; Times: 1
+	Query: "institutioncode:UAM" ; Times: 2
+	Query: "Tupinambis teguixin" ; Times: 1
+	Query: "specificepithet:ordinoides genus:thamnophis hastissue:1" ; Times: 2
+	Query: "Oxyrhopus" ; Times: 1
+	Query: "caiman latirostris" ; Times: 1
+	Query: "typhlops brongersmianus" ; Times: 1
+	Query: "catalognumber:244" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1034 download events in this period)
+Total number of records downloaded: 24
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-15 ; Times: 1
+	Date: 2019-08-03 ; Times: 1
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-05 ; Times: 1
+	Date: 2019-08-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "viperidae" ; Times: 1
+	Query: "class:amphibia continent:South America" ; Times: 1
+	Query: "genus:Ambystoma hastissue:1" ; Times: 1
+	Query: "typhlops" ; Times: 1
+	Query: "typhlops brongersmianus" ; Times: 1
+
+
+End of report.
