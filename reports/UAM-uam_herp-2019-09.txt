@@ -1,0 +1,57 @@
+Report for Institution Code UAM, Resource uam_herp
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 16
+Number of records retrieved in searches: 26
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Brazil ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-21 ; Times: 2
+	Date: 2019-09-16 ; Times: 4
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-09 ; Times: 4
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-06 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Leptophis ahaetulla mappable:1" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34; year &gt;= 1970 year &lt;= 1979 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34; year &gt;= 1970 year &lt;= 1979 month &gt;= 9 month &lt;= 9" ; Times: 1
+	Query: "vntype:specimen specificepithet:latirostris genus:Caiman" ; Times: 1
+	Query: "Thamnophis sirtalis hastissue:1" ; Times: 2
+	Query: "Caiman latirostris" ; Times: 7
+	Query: "Oxyrhopus guibei mappable:1" ; Times: 1
+	Query: "Bothrops jararaca mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1073 download events in this period)
+Total number of records downloaded: 49
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Switzerland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-17 ; Times: 1
+	Date: 2019-09-18 ; Times: 3
+	Date: 2019-09-06 ; Times: 1
+	Date: 2019-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "hemiophrys (Bufo OR Anaxyrus)" ; Times: 1
+	Query: "boreas vntype:specimen hastissue:1" ; Times: 1
+	Query: "Thamnophis sirtalis hastissue:1" ; Times: 1
+	Query: "order:anura lengthtype:snout-vent length haslifestage:1 hassex:1 haslength:1" ; Times: 1
+	Query: "boreas" ; Times: 1
+	Query: "Caiman latirostris" ; Times: 1
+
+
+End of report.
