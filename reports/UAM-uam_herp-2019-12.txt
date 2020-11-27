@@ -1,0 +1,46 @@
+Report for Institution Code UAM, Resource uam_herp
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 7
+Number of records retrieved in searches: 111
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Brazil ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-11 ; Times: 1
+	Date: 2019-12-04 ; Times: 1
+	Date: 2019-12-09 ; Times: 2
+	Date: 2019-12-16 ; Times: 1
+	Date: 2019-12-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "institutioncode:UAM" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:hypochondrialis" ; Times: 1
+	Query: "Bothrops+jararaca" ; Times: 1
+	Query: "mallard" ; Times: 1
+	Query: "specificepithet:sylvatica genus:Rana hastissue:1" ; Times: 1
+	Query: "specificepithet:sylvatica genus:Rana stateprovince:&#34;Alaska&#34; hastissue:1" ; Times: 1
+	Query: "Scinax squalirostris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 596 download events in this period)
+Total number of records downloaded: 11
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Thamnophis stateprovince:&#34;British Columbia&#34;" ; Times: 1
+
+
+End of report.
