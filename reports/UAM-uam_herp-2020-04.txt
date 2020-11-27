@@ -1,0 +1,65 @@
+Report for Institution Code UAM, Resource uam_herp
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 19
+Number of records retrieved in searches: 34
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Argentina ; Times: 6
+	Country: Australia ; Times: 1
+	Country: Chile ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-19 ; Times: 2
+	Date: 2020-04-13 ; Times: 6
+	Date: 2020-04-12 ; Times: 2
+	Date: 2020-04-16 ; Times: 5
+	Date: 2020-04-15 ; Times: 1
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-03 ; Times: 1
+	Date: 2020-04-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Physalaemus albonotatus" ; Times: 1
+	Query: "Oxyrhopus" ; Times: 2
+	Query: "genus:Phyllomedusa specificepithet:hypochondrialis" ; Times: 2
+	Query: "locality:unknown stateprovince:&#34;alaska&#34;" ; Times: 7
+	Query: "genus:Physalaemus specificepithet:albonotatus" ; Times: 3
+	Query: "lithobates hassex:1 haslength:1" ; Times: 1
+	Query: "vntype:specimen (Physalaemus albonotatus )" ; Times: 1
+	Query: "Caiman latirostris" ; Times: 1
+	Query: "lithobates sylvaticus hassex:1 haslength:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1171 download events in this period)
+Total number of records downloaded: 113
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Australia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-19 ; Times: 1
+	Date: 2020-04-15 ; Times: 1
+	Date: 2020-04-14 ; Times: 3
+	Date: 2020-04-03 ; Times: 1
+	Date: 2020-04-29 ; Times: 1
+	Date: 2020-04-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "(Xenodontinae) hastissue:1" ; Times: 2
+	Query: "specificepithet:melanoleucus genus:Pituophis" ; Times: 1
+	Query: "Thamnophis ordinoides" ; Times: 1
+	Query: "Rana luteiventris" ; Times: 1
+	Query: "Anaxyrus boreas" ; Times: 1
+	Query: "Caiman latirostris" ; Times: 1
+	Query: "locality:unknown stateprovince:&#34;alaska&#34;" ; Times: 1
+
+
+End of report.
