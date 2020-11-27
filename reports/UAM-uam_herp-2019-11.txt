@@ -1,0 +1,42 @@
+Report for Institution Code UAM, Resource uam_herp
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 7
+Number of records retrieved in searches: 10
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-26 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:ordinoides genus:thamnophis stateprovince:&#34;Alaska&#34; hasmedia:1 hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:sylvaticus genus:Lithobates hastissue:1" ; Times: 1
+	Query: "specificepithet:ordinoides genus:thamnophis hastissue:1" ; Times: 2
+	Query: "specificepithet:ordinoides genus:thamnophis year &gt;= 1960 hastissue:1" ; Times: 1
+	Query: "specificepithet:ordinoides genus:thamnophis basisofrecord:PreservedSpecimen hasmedia:1 hastissue:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1367 download events in this period)
+Total number of records downloaded: 82
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-15 ; Times: 2
+	Date: 2019-11-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "rana sylvatica" ; Times: 1
+	Query: "wood frog" ; Times: 1
+	Query: "specificepithet:ordinoides genus:thamnophis year &gt;= 1960 hastissue:1" ; Times: 1
+
+
+End of report.
