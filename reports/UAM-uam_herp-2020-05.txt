@@ -1,0 +1,63 @@
+Report for Institution Code UAM, Resource uam_herp
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 79
+Number of records retrieved in searches: 178
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Unknown ; Times: 14
+	Country: Brazil ; Times: 62
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 11
+	Date: 2020-05-24 ; Times: 7
+	Date: 2020-05-21 ; Times: 2
+	Date: 2020-05-23 ; Times: 1
+	Date: 2020-05-22 ; Times: 11
+	Date: 2020-05-18 ; Times: 6
+	Date: 2020-05-19 ; Times: 2
+	Date: 2020-05-07 ; Times: 1
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-12 ; Times: 4
+	Date: 2020-05-13 ; Times: 2
+	Date: 2020-05-14 ; Times: 4
+	Date: 2020-05-15 ; Times: 10
+	Date: 2020-05-16 ; Times: 9
+	Date: 2020-05-17 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Bothrops+jararaca" ; Times: 70
+	Query: "caiman" ; Times: 1
+	Query: "specificepithet:boreas genus:Bufo year &gt;= 2002 year &lt;= 2008" ; Times: 1
+	Query: "institutioncode:UAM" ; Times: 1
+	Query: "genus:Bothrops specificepithet:jararaca" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1106 download events in this period)
+Total number of records downloaded: 107
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Australia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-06 ; Times: 1
+	Date: 2020-05-05 ; Times: 1
+	Date: 2020-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Taricha granulosa female" ; Times: 1
+	Query: "Lithobates" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+	Query: "Thamnophis sirtalis" ; Times: 1
+
+
+End of report.
