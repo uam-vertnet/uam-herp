@@ -1,0 +1,61 @@
+Report for Institution Code UAM, Resource uam_herp
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 19
+Number of records retrieved in searches: 165
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-01 ; Times: 1
+	Date: 2020-01-17 ; Times: 1
+	Date: 2020-01-07 ; Times: 1
+	Date: 2020-01-19 ; Times: 1
+	Date: 2020-01-23 ; Times: 7
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-10 ; Times: 1
+	Date: 2020-01-22 ; Times: 5
+	Date: 2020-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Physalaemus albonotatus" ; Times: 1
+	Query: "salamandrella" ; Times: 1
+	Query: "institutioncode:UAM" ; Times: 1
+	Query: "specificepithet:squalirostris genus:Scinax" ; Times: 1
+	Query: "specificepithet:luteiventris genus:Rana" ; Times: 1
+	Query: "pretiosa Rana" ; Times: 1
+	Query: "specificepithet:hypochondrialis genus:Phyllomedusa" ; Times: 1
+	Query: "specificepithet:albonotatus genus:Physalaemus" ; Times: 1
+	Query: "specificepithet:hemiophrys genus:Bufo" ; Times: 1
+	Query: "mallard" ; Times: 3
+	Query: "genus:Oxyrhopus hastissue:1" ; Times: 1
+	Query: "specificepithet:chaquensis genus:Leptodactylus" ; Times: 1
+	Query: "luteiventris Rana" ; Times: 3
+	Query: "genus:Salamandrella specificepithet:keyserlingii" ; Times: 1
+	Query: "specificepithet:ocellatus genus:Leptodactylus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1584 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
