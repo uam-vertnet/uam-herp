@@ -1,0 +1,62 @@
+Report for Institution Code UAM, Resource uam_herp
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 213
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: Paraguay ; Times: 3
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-08 ; Times: 1
+	Date: 2020-10-20 ; Times: 3
+	Date: 2020-10-27 ; Times: 1
+	Date: 2020-10-26 ; Times: 8
+	Date: 2020-10-02 ; Times: 1
+	Date: 2020-10-07 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "mappable:1 scientificname:Caiman latirostris" ; Times: 1
+	Query: "genus:Lithobates haslength:1" ; Times: 1
+	Query: "sockeye" ; Times: 1
+	Query: "specificepithet:boreas stateprovince:&#34;alaska&#34;" ; Times: 4
+	Query: "mappable:1 scientificname:Caiman yacare" ; Times: 1
+	Query: "specificepithet:boreas stateprovince:&#34;alaska&#34; year &gt;= 1951 year &lt;= 2020" ; Times: 4
+	Query: "Physalaemus albonotatus" ; Times: 2
+	Query: "mappable:1 scientificname:Leptophis ahaetulla" ; Times: 1
+	Query: "genus:Salamandrella specificepithet:keyserlingii" ; Times: 1
+	Query: "Scinax squalirostris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1521 download events in this period)
+Total number of records downloaded: 58
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Unknown ; Times: 4
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-01 ; Times: 4
+	Date: 2020-10-08 ; Times: 1
+	Date: 2020-10-05 ; Times: 2
+	Date: 2020-10-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:pipiens genus:Rana country:&#34;Canada&#34;" ; Times: 4
+	Query: "order:Caudata hastissue:1" ; Times: 1
+	Query: "Crotalinae" ; Times: 1
+	Query: "genus:Rana haslength:1" ; Times: 1
+	Query: "genus:Lithobates haslength:1" ; Times: 1
+
+
+End of report.
